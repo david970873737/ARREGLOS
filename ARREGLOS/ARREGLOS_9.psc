@@ -1,4 +1,4 @@
-Algoritmo ARREGLOS_6
+Algoritmo ARREGLOS_9
 	Definir n, opcioon , area Como Real
 	
 	Escribir "escribe el numero de conos a sacar el volumen"
@@ -50,3 +50,4 @@ funcion dato_leer(area, n)
 		Escribir "posicion [" i "] " area[i]
 	FinPara
 FinFuncion
+
