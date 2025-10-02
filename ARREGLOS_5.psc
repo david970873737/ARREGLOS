@@ -1,4 +1,4 @@
-Algoritmo ARREGLOS_4
+Algoritmo ARREGLOS_5
 	Definir n, opcioon Como Entero
 	definir area_circulo Como Real
 	
@@ -46,4 +46,5 @@ funcion le3r(area_circulo, n)
 		Escribir "Posicion [" i "] ", area_circulo[i] 
 	FinPara
 FinFuncion
+
 
